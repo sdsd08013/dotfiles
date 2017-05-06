@@ -8,7 +8,6 @@ export PATH="$HOME/.gem/ruby/2.2.2:$PATH"
 # export PYENV_ROOT="$HOME/.pyenv"
 # export PATH="$HOME/.pyenv"
 export PATH="$PYENV_ROOT/bin:$PATH"
-export RYUSHIMA_SLACK_TOKEN="xoxb-100423393937-MGatUT2uvPsre9c6mjZfxevE"
 export PATH=/usr/bin:$PATH
 eval "$(rbenv init -)"
 #eval "$(pyenv init -)"
